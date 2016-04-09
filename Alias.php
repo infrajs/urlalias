@@ -1,5 +1,5 @@
 <?php
-namespace infrajs\alias;
+namespace infrajs\urlalias;
 class Alias {
 	public static $conf = array(
 		'hard' => array( //Точное совпдаение адреса до параметров

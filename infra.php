@@ -1,5 +1,5 @@
 <?php
-namespace infrajs\alias;
+namespace infrajs\urlalias;
 
 Alias::init();
 

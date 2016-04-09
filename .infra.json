@@ -1,5 +1,5 @@
 {
-	"conf":"infrajs\\alias\\Alias",
+	"conf":"infrajs\\urlalias\\Alias",
 	"require":"infra.php",
 	"hard":{
 		"urlalias-hard-test":"urlalias-hard-ok"

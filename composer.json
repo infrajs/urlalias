@@ -5,5 +5,5 @@
 	"license": "GPL3",
 	"autoload": {
 		"psr-4": { "infrajs\\urlalias\\": "/" }
-	}"
+	}
 }

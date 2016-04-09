@@ -1,0 +1,10 @@
+{
+	"conf":"infrajs\\alias\\Alias",
+	"require":"infra.php",
+	"hard":{
+		"urlalias-hard-test":"urlalias-hard-ok"
+	},
+	"part":{
+		"urlalias-part-test":"urlalias-part-ok"
+	}
+}

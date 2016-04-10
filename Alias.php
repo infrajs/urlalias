@@ -18,7 +18,7 @@ class Alias {
 		
 		foreach ($conf['part'] as $search => $newquery) {
 			$r = explode($search, $query, 2);
-			if ($r[0] != '') continue;
+			if ($r[0] != ''||($query == '')) continue;
 			return $newquery.$r[1];
 		}
 	}

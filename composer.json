@@ -2,7 +2,6 @@
 	"name":"infrajs/urlalias",
 	"description":"Редирект со старых адресов сайта на новые",
 	"homepage":"https://github.com/infrajs/urlalias",
-	"license": "GPL3",
 	"autoload": {
 		"psr-4": { "infrajs\\urlalias\\": "/" }
 	}
